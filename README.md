@@ -1,4 +1,4 @@
-## BakaNeo 🐹⌨️
+## BakaNeo
 
 A beautiful theme for VSCode, enjoy it!
 

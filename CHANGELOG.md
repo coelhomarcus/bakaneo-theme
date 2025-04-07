@@ -11,3 +11,5 @@
 - [1.1.3] update readme again...
 
 - [1.1.4] update ruler color
+
+- [1.1.5] update logo
